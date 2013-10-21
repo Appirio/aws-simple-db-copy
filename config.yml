@@ -1,0 +1,7 @@
+aws_access_key: "replace this"
+aws_secret_key: "replace this also"
+domain_map:
+  -
+    source_table: "cloudworks.qa.2-LinkedInAuth"
+    destination_table: "cloudworks.neil.2-LinkedInAuth"
+    where_clause: ""
